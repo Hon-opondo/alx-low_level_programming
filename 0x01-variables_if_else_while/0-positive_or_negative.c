@@ -5,7 +5,7 @@
  * main - determines weather the value of variable is positive
  * or negative
  *
- * Return : Always 0 (success)
+ * Return: 0 (success)
  */
 int main(void)
 {
