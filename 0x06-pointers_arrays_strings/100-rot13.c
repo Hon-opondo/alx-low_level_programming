@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * rot13 - rotate characters 13 places 
+ * rot13 - rotate characters 13 places
  * @str: string
  * Return: rotated string s
  */
